@@ -1,0 +1,31 @@
+body {
+	font-size: 14px;
+}
+header{
+	margin: 0px
+}
+nav ul li {
+	list-style-type: none;
+	text-align: center;
+	border: solid;
+}
+#titulo {
+	text-align: center;
+	margin-right: 0px;
+}
+
+/*seccion bienvenida*/
+#bienvenida {
+	background-color: rgb(52, 52, 52);
+	font-size: 1.3em;
+	padding: 0.5em;
+}
+#frases {
+	border-style: solid;
+	border-color: rgb(52, 52, 52);
+	border-width: 3px;
+	padding: 1em;
+}
+.foot {
+	text-align: center;
+}

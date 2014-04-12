@@ -1,0 +1,27 @@
+header {
+	color: white;
+	background-color: #e95644;
+	border-bottom-style: groove;
+	border-color: green;
+	padding: 2em;
+	margin: 3em;
+}
+footer {
+	color: white;
+	background-color: rgb(52,52,52);
+}
+#bienvenida {
+	color: white;
+	text-align: center;
+}
+.frase {
+	text-align: center;
+	font-size: 2em;
+}
+.frase img, #gato img, #video video {
+	max-width: 100%;
+}
+#gato {
+	text-align: center;
+	font-size: 1.5em;
+}
